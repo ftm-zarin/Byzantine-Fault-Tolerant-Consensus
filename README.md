@@ -32,7 +32,7 @@ The purpose of this partial translation is to highlight the specific architectur
 ## 📥 Usage
 
 You can view or download the translated survey here:
-* [**Download PDF**](./BFT_Algorithms_Survey_Translation.pdf) *(Replace with your actual filename)*
+* [**Download PDF**](./Byzantine.pdf) 
 
 ## ✍️ Author
 
